@@ -1,16 +1,58 @@
 
 body {
-    background-color: #c9c9c9;
+    background-color: #202020;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
 }
 
 .page {
     background-color: white;
     box-shadow: 2rem;
-    padding: 5%;
+    padding: 8%;
+    padding-top: 15%;
 }
+
+.button {
+    background-color: black;
+    border-color: black;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.button.button-clear {
+    color: black;
+    font-size: medium;
+}
+
+h1{
+    color: black;
+    font-size: 6rem;
+}
+
+p {
+    color: rgb(43, 43, 43);
+}
+
 
 .center {
     text-align: center;
+}
+
+hr.rounded {
+    border-top: 0.15rem solid #202020;
+    border-radius: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 6rem;
+}
+
+.project-heading {
+    color: black;
+    text-decoration: underline;
+    font-size: 4rem;
 }
 
 @media (min-width: 40.0rem) {
@@ -21,5 +63,9 @@ body {
         margin-left: 12%;
         margin-right: 12%;
         padding: 8%;
+    }
+
+    .logo {
+        width: 50%;
     }
 }
