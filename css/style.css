@@ -14,7 +14,7 @@ body {
     background-color: white;
     box-shadow: 2rem;
     padding: 8%;
-    padding-top: 15%;
+    padding-top: 20%;
 }
 
 .button {
@@ -25,12 +25,14 @@ body {
 
 .button.button-clear {
     color: black;
-    font-size: medium;
+    font-size: 1.3rem;
+    padding: 5%;
+    padding-top: 4%;
 }
 
 h1{
     color: black;
-    font-size: 6rem;
+    font-size: 4rem;
 }
 
 p {
@@ -43,7 +45,7 @@ p {
 }
 
 hr.rounded {
-    border-top: 0.15rem solid #202020;
+    border-top: 0.15rem solid #808080;
     border-radius: 1rem;
     margin-top: 2rem;
     margin-bottom: 6rem;
@@ -52,7 +54,26 @@ hr.rounded {
 .project-heading {
     color: black;
     text-decoration: underline;
-    font-size: 4rem;
+    font-size: 3rem;
+}
+
+.image-container {
+    margin: 3%;
+    margin-top: 7%;
+}
+
+img{
+    border-radius: 1rem;
+}
+
+a{
+    color: black;
+}
+
+.img-subtext{
+    color: rgb(132, 132, 132);
+    font-weight: lighter;
+    font-style: italic;
 }
 
 @media (min-width: 40.0rem) {
@@ -63,9 +84,21 @@ hr.rounded {
         margin-left: 12%;
         margin-right: 12%;
         padding: 8%;
+        padding-top: 10%;
     }
 
     .logo {
         width: 50%;
+    }
+
+    h1{
+        font-size: 6rem;
+    }
+
+    .button.button-clear {
+        color: black;
+        font-size: 1.7rem;
+        padding: 8%;
+        padding-top: 5%;
     }
 }
