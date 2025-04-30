@@ -1,13 +1,65 @@
-<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
-	<title>New Project</title>
-	<defs>
-		<image  width="1200" height="300" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAAEsAQMAAADpc9gTAAAAAXNSR0IB2cksfwAAAANQTFRF+vr/3HgtZgAAAENJREFUeJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEcDsPQAAfqwblsAAAAASUVORK5CYII="/>
-	</defs>
-	<style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.2"
+   viewBox="0 0 1200 300"
+   width="1200"
+   height="300"
+   id="svg12"
+   sodipodi:docname="footer_wave.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#c5c5c5"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.37182032"
+     inkscape:cx="17.481562"
+     inkscape:cy="145.23144"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <title
+     id="title2">New Project</title>
+  <defs
+     id="defs5">
+    <image
+       width="1200"
+       height="300"
+       id="img1"
+       href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAAEsAQMAAADpc9gTAAAAAXNSR0IB2cksfwAAAANQTFRF+vr/3HgtZgAAAENJREFUeJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEcDsPQAAfqwblsAAAAASUVORK5CYII=" />
+  </defs>
+  <style
+     id="style7">
 		tspan { white-space:pre }
 		.shp0 { fill: #151418 } 
 	</style>
-	<use id="Background" href="#img1" x="0" y="0" />
-	<path id="Shape 1" class="shp0" d="M-56 49C-56 49 538 35.84 778 349C1018 662.16 31 349 31 349L-60 224L-56 49Z" />
-	<path id="Shape 2" class="shp0" d="M-153 -97L-153 -97Z" />
+  <path
+     id="Shape 1"
+     class="shp0"
+     d="m -56,49 c 0,0 594,-13.16 834,300 240,313.16 -747,0 -747,0 L -60,224 Z"
+     style="display:inline" />
+  <metadata
+     id="metadata243">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>New Project</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
